@@ -24,7 +24,7 @@ const imageAltText = "abstract background with beautiful color";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am Information Systems student at AIH,Sydney. I am Passionately interested in learning Programming.";
+  "Hello there! 👋 I'm Joshan Pandey a first-year Master's Degree student in Business Information Systems at AIH, Sydney, Australia. Passionate about coding and project development, I thrive in the realms of Java and Python programming. As a problem solver at heart, I enjoy tackling challenges and translating innovative ideas into functional solutions. Eager to learn, create, and contribute to the tech world. Let's build something amazing together! 💻✨";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -35,6 +35,7 @@ const skillsList = [
   "Python",
   "Linux Line-Command",
   "MySQL",
+  "Problem solving",
   
 ];
 
@@ -44,7 +45,8 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I love to use my analytical mind for solving problems in new creative ways to drive innovation and sustainibility.";
+  "Embrace the beauty of coding as your canvas, and each line you write becomes a stroke of innovation. In the vast landscape of technology, your code has the power to shape, create, and inspire. Remember, every bug you conquer is a step closer to mastery, and every problem you solve is a victory in the journey of endless possibilities. Keep coding, stay curious, and let your passion for programming be the driving force behind your journey to greatness. The world needs your unique solutions, so code on with confidence and creativity!"
+  ;
 
 const About = () => {
   return (
