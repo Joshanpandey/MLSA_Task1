@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Joshan Pandey",
-  title: "Master's Degree Student\nAspiring Web Developer",
+  title: "IT Student\nAspiring Web Developer",
   email: "joshan.pandey@gmail.com",
   gitHub: "joshanpandey",
   instagram: "joshanpandey",
