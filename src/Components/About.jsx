@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "Embrace the beauty of coding as your canvas, and each line you write becomes a stroke of innovation. In the vast landscape of technology, your code has the power to shape, create, and inspire. Remember, every bug you conquer is a step closer to mastery, and every problem you solve is a victory in the journey of endless possibilities. Keep coding, stay curious, and let your passion for programming be the driving force behind your journey to greatness. The world needs your unique solutions, so code on with confidence and creativity!"
+  "Programming is the art of telling another human being what one wants the computer to do. ― Donald Ervin Knuth"
   ;
 
 const About = () => {
