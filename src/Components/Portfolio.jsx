@@ -39,7 +39,7 @@ const projectList = [
   {
     title: "Microsoft Learn Student Ambassador 2024",
     description:
-      "I am thrilled to announce i have successfully selected as the MLSA 2024.",
+      "I am thrilled to announce that i have successfully selected as the MLSA 2024.It's the golden opportunity to join Microsoft Community",
     url: "https://mvp.microsoft.com/studentambassadors/certificate/b7f953fe-d911-4795-8b72-99b8df260fa7",
   },
   {
