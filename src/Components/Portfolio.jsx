@@ -37,16 +37,16 @@ const projectList = [
     url: "https://substack.com/@joshanpandey?utm_source=user-menu",
   },
   {
-    title: "My Resume site",
+    title: "Microsoft Learn Student Ambassador 2024",
     description:
-      "",
-    url: "",
+      "I am thrilled to announce i have successfully selected as the MLSA 2024.",
+    url: "https://mvp.microsoft.com/studentambassadors/certificate/b7f953fe-d911-4795-8b72-99b8df260fa7",
   },
   {
-    title: "My first Project",
+    title: "My first Portfolio project",
     description:
-      "",
-    url: "",
+      " I have deployed my first Personal portfolio website. The github repository to it is here",
+    url: "https://github.com/Joshanpandey/MLSA_Task1",
   },
   {
     title: "My Best Books",
