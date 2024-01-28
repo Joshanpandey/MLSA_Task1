@@ -24,17 +24,16 @@ const imageAltText = "abstract background with beautiful color";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Master's Degree student studying Business Information Systems at AIH in Sydney , Australia. I am keenly interested in coding and developing new projects.";
+  "I'm frist year Master's Degree student studying Business Information Systems at AIH,Sydney , Australia. I am keenly interested in coding and developing new projects.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Aspiring Web Developer",
   "Java Programming Language",
-  "Data Structure and Algorithms",
   "Python Programming Language",
+  "Problem Solver",
   
 ];
 

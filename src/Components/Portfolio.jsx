@@ -37,13 +37,13 @@ const projectList = [
     url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "",
     description:
       "",
     url: "",
   },
   {
-    title: "My Resume Site",
+    title: "",
     description:
       "",
     url: "",
