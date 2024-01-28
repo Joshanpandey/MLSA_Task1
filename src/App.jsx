@@ -25,12 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Joshan Pandey",
-  title: "Aspiring Web Developer",
+  title: "Master's Degree Student\n Aspiring Web Developer",
   email: "joshan.pandey@gmail.com",
   gitHub: "joshanpandey",
-  instagram: "",
+  instagram: "joshanpandey",
   linkedIn: "joshanpandey",
   medium: "",
+  substack: "joshanpandey",
   twitter: "JoshanJP",
   youTube: "",
 };
