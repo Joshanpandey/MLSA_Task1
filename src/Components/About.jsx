@@ -33,7 +33,7 @@ const description =
 const skillsList = [
   "Aspiring Web Developer",
   "Java Programming Language",
-  "Data Structure and ALgorithms",
+  "Data Structure and Algorithms",
   "Python Programming Language",
   
 ];
@@ -44,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I love to use my analytical mind  for solving problems in new creative ways to drive innovation and sustainibility.";
+  "I love to use my analytical mind for solving problems in new creative ways to drive innovation and sustainibility.";
 
 const About = () => {
   return (
