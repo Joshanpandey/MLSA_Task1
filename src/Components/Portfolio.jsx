@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/Joshanpandey/MLSA_Task1",
   },
   {
-    title: "My Best Books",
+    title: "My top 10 Books for 2024",
     description:
-      "",
-    url: "",
+      "This is my top 10 recommendation reads for 2024 with concise summaries for each.Lets make this year a different",
+    url: "https://substack.com/profile/101023878-joshan-pandey/note/c-48282606?utm_source=substack&utm_content=first-note-modal",
   },
 ];
 
