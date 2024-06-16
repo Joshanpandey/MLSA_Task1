@@ -24,15 +24,15 @@ const imageAltText = "abstract background with beautiful color";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Hello there! 👋 I'm Joshan Pandey a first-year Master's Degree student in Business Information Systems at AIH, Sydney, Australia. Passionate about coding and project development, I thrive in the realms of Java and Python programming. As a problem solver at heart, I enjoy tackling challenges and translating innovative ideas into functional solutions. Eager to learn, create, and contribute to the tech world. Let's build something amazing together! 💻✨";
+  "Hello there! 👋 I'm Joshan Pandey a Final-year Master's Degree student in Business Information Systems at AIH, Sydney, Australia. Passionate about coding and project development, I thrive in the realms Working in Web Development Field. As a problem solver at heart, I enjoy tackling challenges and translating innovative ideas into functional solutions. Eager to learn, create, and contribute to the tech world. Let's build something amazing together! 💻✨";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
+  "HTML,CSS,JavaScript",
   "Java",
-  "Python",
   "Linux Line-Command",
   "MySQL",
   "Problem solving",
