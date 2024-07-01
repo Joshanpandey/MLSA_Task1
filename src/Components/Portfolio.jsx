@@ -31,10 +31,11 @@ const imageAltText = "A perfect desktop setup";
  */
 const projectList = [
   {
-    title: "My Blog Website",
+    title: "Simon-Says-Game",
     description:
-      "This is my blog website where I write about my expericences and how i feel everyday.",
-    url: "https://substack.com/@joshanpandey?utm_source=user-menu",
+      "The Simon Says game is built using HTML, CSS, and JavaScript, making it a lightweight and responsive web application that can be played on various devices, including desktops, tablets, and smartphones",
+    url: "https://agreeable-mushroom-070c20710.5.azurestaticapps.net/",
+    url: "https://github.com/Joshanpandey/Simon-Says-Game--Using-HTML--CSS-and-JS-.git",
   },
   {
     title: "Microsoft Learn Student Ambassador 2024",
@@ -48,12 +49,7 @@ const projectList = [
       " I have deployed my first Personal portfolio website. The github repository to it is here",
     url: "https://github.com/Joshanpandey/MLSA_Task1",
   },
-  {
-    title: "My top 10 Books for 2024",
-    description:
-      "This is my top 10 recommendation reads for 2024 with concise summaries for each.Lets make this year a different",
-    url: "https://substack.com/profile/101023878-joshan-pandey/note/c-48282606?utm_source=substack&utm_content=first-note-modal",
-  },
+
 ];
 
 const Portfolio = () => {

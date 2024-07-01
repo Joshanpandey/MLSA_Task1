@@ -32,9 +32,8 @@ const description =
  */
 const skillsList = [
   "HTML,CSS,JavaScript",
-  "Java",
-  "Linux Line-Command",
-  "MySQL",
+  "Git, Github, Command - line",
+  "MySQL, MongoDB",
   "Problem solving",
   
 ];
